@@ -231,8 +231,7 @@ const talkSection = {
     {
       title: "Build Actions For Google Assistant",
       subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
+      slides_url: "https://drive.google.com/file/d/1OG4WOGaL77dkwuaaT9DUoKvk0YVNLRNn/view?usp=drive_link",
     }
   ],
   display: true // Set false to hide this section, defaults to true
