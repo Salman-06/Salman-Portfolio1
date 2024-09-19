@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://drive.google.com/file/d/1d7GG9dEiSOLYR54e2tXD2eB_tkhRqUdN/view?usp=drive_link"></img>
+<img src="https://drive.google.com/file/d/1d7GG9dEiSOLYR54e2tXD2eB_tkhRqUdN/view?usp=drive_link.gif"></img>
   </kbd>
 </p>
 
