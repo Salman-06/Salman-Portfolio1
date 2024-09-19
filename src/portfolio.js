@@ -245,7 +245,9 @@ const talkSection = {
 const resumeSection = {
   title: "Resume",
   subtitle: "Feel free to download my resume",
-
+  resumeLink:
+    "https://docs.google.com/document/d/1s64-7-cApJYrrM6HTDHNZR4pWQpORYWJ/edit?usp=drive_link&ouid=101452613115539452204&rtpof=true&sd=true", // Set to empty to hide the button
+  
   // Please Provide with Your Podcast embeded Link
   display: true // Set false to hide this section, defaults to true
 };
