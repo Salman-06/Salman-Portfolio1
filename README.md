@@ -270,7 +270,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 <table>
   <tr>
-    <td align="center"><a href="http://saadpasta.github.io"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt=""/><br /><sub><b>Saad Pasta</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Salman-06"><img src="https://avatars.githubusercontent.com/u/107459965?00&u=03c09fe4479ede2d7a862c0aa2f3508b4f8ed857&v=4" width="100px;" alt=""/><br /><sub><b>Salman Barick</b></sub></a></td>
     
   </tr>
 </table>
