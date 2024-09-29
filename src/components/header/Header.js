@@ -6,7 +6,6 @@ import StyleContext from "../../contexts/StyleContext";
 import {
   greeting,
   skillsSection,
-  openSource,
   talkSection,
   achievementSection,
   resumeSection
@@ -14,7 +13,6 @@ import {
 
 function Header() {
   const {isDark} = useContext(StyleContext);
-  const viewOpenSource = openSource.display;
   const viewSkills = skillsSection.display;
   const viewAchievement = achievementSection.display;
   const viewTalks = talkSection.display;
@@ -40,11 +38,6 @@ function Header() {
           {viewSkills && (
             <li>
               <a href="#skills">Skills</a>
-            </li>
-          )}
-          {viewOpenSource && (
-            <li>
-              <a href="#opensource">Open Source</a>
             </li>
           )}
           {viewAchievement && (
