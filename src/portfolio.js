@@ -23,7 +23,7 @@ const greeting = {
   username: "Salman Barick",
   title: "Hi all, I'm Salman",
   subTitle: emoji(
-    "A passionate Front- End Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Front-End Developer 🚀 having an knowledge of building Web and Mobile applications with JavaScript / Reactjs and some other cool libraries and frameworks."
   ),
   resumeLink: "https://docs.google.com/document/d/1s64-7-cApJYrrM6HTDHNZR4pWQpORYWJ/edit?usp=drive_link&ouid=101452613115539452204&rtpof=true&sd=true", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -51,6 +51,7 @@ const skillsSection = {
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Had a interest in Mobile App development with Nodejs and Flutter"),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
