@@ -158,7 +158,7 @@ const bigProjects = {
     {
       image: require("./assets/images/logo.png"),
       projectName: "Accounts Management",
-      projectDesc: "Hands on experience on creating a website or software for own busniess purpose and createing it by front-end with HTML, CSS with js and connecting it to back-end through php with databae type SQL.",
+      projectDesc: "Hands on experience by creating a website or software for our own busniess purpose and creating it by front-end with HTML, CSS with js and connecting it to back-end through php with databae type SQL.",
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -228,7 +228,7 @@ const talkSection = {
   talks: [
     {
       title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
+      subtitle: "Codelab at GDG DevFest Karachi 2022",
       slides_url: "https://drive.google.com/file/d/1OG4WOGaL77dkwuaaT9DUoKvk0YVNLRNn/view?usp=drive_link",
     }
   ],
