@@ -156,9 +156,9 @@ const bigProjects = {
       projectDesc: "Design and develop a technology solution for detecting apps like Fire chat that use Mesh Network to connect users without cell service in a given area",
     },
     {
-      image: require("./assets/images/texttovideo.jpeg"),
-      projectName: "Text to Video Converstion",
-      projectDesc: "Hands on experience on Video to text convert software with model from hugging face and ai framework includes Pytorch & Keras.",
+      image: require("./assets/images/logo.png"),
+      projectName: "Accounts Management",
+      projectDesc: "Hands on experience on creating a website or software for own busniess purpose and createing it by front-end with HTML, CSS with js and connecting it to back-end through php with databae type SQL.",
     }
   ],
   display: true // Set false to hide this section, defaults to true
